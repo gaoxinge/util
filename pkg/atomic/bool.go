@@ -4,7 +4,7 @@ import (
 	"sync/atomic"
 )
 
-// Atomic bool implementation.
+// Bool is atomic bool implementation.
 // Reference:
 //   - https://gist.github.com/mahan/6256149
 //   - https://github.com/tevino/abool
